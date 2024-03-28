@@ -1,0 +1,161 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 17133.73; Version 1803; 64bit' Language: 'en' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/FCAI-HU/Projects/Game 2D Wolf Game/2D Tutorial
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61299
+Successfully changed project path to: D:/FCAI-HU/Projects/Game 2D Wolf Game/2D Tutorial
+D:/FCAI-HU/Projects/Game 2D Wolf Game/2D Tutorial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/FCAI-HU/Projects/Game 2D Wolf Game/2D Tutorial/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     4027 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001230 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 106.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.917 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 3.651348 ms (FindLiveObjects: 0.251374 ms CreateObjectMapping: 0.124916 ms MarkObjects: 3.222110 ms  DeleteObjects: 0.051406 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animation/Player/Die.anim
+  artifactKey: Guid(088f6157ef4162e4781d840eaa587147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/Die.anim using Guid(088f6157ef4162e4781d840eaa587147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078cc916954cff8a2cd3c6281d31bd31') in 0.108357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.560066 seconds.
+  path: Assets/Animation/Player/Healthbar.controller
+  artifactKey: Guid(cd5085d2ae8acdb47a3670b06557ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/Healthbar.controller using Guid(cd5085d2ae8acdb47a3670b06557ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661905bbb4119db277f0e821fe9b3406') in 0.007980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.715920 seconds.
+  path: Assets/Animation/Player/Hurt.anim
+  artifactKey: Guid(dabfd46ab3592794ab6a21123b91e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/Hurt.anim using Guid(dabfd46ab3592794ab6a21123b91e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62377bbf58d1c98fdbcaf0e65d8b2c06') in 0.104861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.514880 seconds.
+  path: Assets/Animation/Player/Idle.anim
+  artifactKey: Guid(bf20e8b7c3b82974aa743a682febda73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/Idle.anim using Guid(bf20e8b7c3b82974aa743a682febda73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f684b20570769fd978fb7dbb67494586') in 0.007161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.064640 seconds.
+  path: Assets/Animation/Player/Jump.anim
+  artifactKey: Guid(f05508070afa5c54aab550ad0de1b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/Jump.anim using Guid(f05508070afa5c54aab550ad0de1b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efe2658d5c6eeea865e1e344813fff8') in 0.008481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 109.573349 seconds.
+  path: Assets/Scripts/Health/Health.cs
+  artifactKey: Guid(f2a986cbcfee7dc499e321fd41fcc2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Health/Health.cs using Guid(f2a986cbcfee7dc499e321fd41fcc2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26a269225d80ddeb302a465bbc68bd5') in 0.359039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.182447 seconds.
+  path: Assets/Sprites/Character
+  artifactKey: Guid(f29905189468aca4c9c1718c738f1bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character using Guid(f29905189468aca4c9c1718c738f1bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1d416f46083f6a148ed9daacff5e1c') in 0.010992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.877806 seconds.
+  path: Assets/Sprites/Character/Dragon Warrior PNG
+  artifactKey: Guid(080480210f236eb4d8bae4f6b33cdb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character/Dragon Warrior PNG using Guid(080480210f236eb4d8bae4f6b33cdb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca559c79e21eb9dd31b69169a828deb') in 0.005033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001776 seconds.
+  path: Assets/Sprites/Character/Dragon Warrior PNG/attack_01.png
+  artifactKey: Guid(2d81263c15e0870429e027cfa336f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character/Dragon Warrior PNG/attack_01.png using Guid(2d81263c15e0870429e027cfa336f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d26eae4db739b051326de20a90e0ce9') in 0.296525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sprites/Character/Dragon Warrior PNG/crouch_01.png
+  artifactKey: Guid(f11802c99509ede4c9db6c8746969cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character/Dragon Warrior PNG/crouch_01.png using Guid(f11802c99509ede4c9db6c8746969cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98b7c2aba565bed4ae25ef8aaa890a0') in 0.039849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sprites/Character/Dragon Warrior PNG/attack_02.png
+  artifactKey: Guid(2ac0bdb1f72273446853e8d81225c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character/Dragon Warrior PNG/attack_02.png using Guid(2ac0bdb1f72273446853e8d81225c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591f768f28e2a8951e6dfa6d44f15440') in 0.033699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Sprites/Character/Dragon Warrior PNG/attack_03.png
+  artifactKey: Guid(080098adc5ac9cc428f1a442160eef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Character/Dragon Warrior PNG/attack_03.png using Guid(080098adc5ac9cc428f1a442160eef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3e51048a08382366e08c3b127eaeff') in 0.024950 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 4.132505 ms (FindLiveObjects: 0.253430 ms CreateObjectMapping: 0.125944 ms MarkObjects: 3.715605 ms  DeleteObjects: 0.035984 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
